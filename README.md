@@ -1,9 +1,9 @@
 # simple-socket-io
-to install dependencies run nex comman:
+to install dependencies run next command:
 ```
 npm i
 ```
-after installing we need to run index.ts
+after that we need to run index.ts
 ```
 npm start
 ```
